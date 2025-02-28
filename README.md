@@ -1,4 +1,5 @@
-# NYC_Housing_Analysis
+# Affordable Housing Analysis for Low-Income Families
+
 
 # Introduction
 We are local real estate agents looking for low cost housing for families. Our overall goal is to find affordable housing for families, particularly small, low-income families. We hope to look at all neighborhoods and cities and determine where our clients could move to at an affordable price. The dataset has columns such as price, city, amenities, and bedrooms/bathrooms just to name a few; by analyzing this data, we as real estate agents can find low cost housing for families that has everything they are looking for.
